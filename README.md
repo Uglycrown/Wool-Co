@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # Wool&Co
 
 
+=======
+>>>>>>> bac164f (Initial commit)
 Shopify-Style E-Commerce Product Page
 This is a responsive product page built with vanilla HTML, CSS, and JavaScript. It looks and works like a modern Shopify product page, but uses only basic web technologies-no frameworks or libraries.
 
@@ -50,7 +53,11 @@ project-root/
     ├── product/
     ├── complementary/
     ├── related/
+<<<<<<< HEAD
     └── [thumbnails]
+=======
+    └── [your images]
+>>>>>>> bac164f (Initial commit)
 Add Images
 
 Put your images in the right folders inside assets/.
@@ -69,4 +76,8 @@ All JavaScript is in the js/ folder and is easy to read and edit.
 Notes
 No frameworks or libraries are used.
 
+<<<<<<< HEAD
 No Shopify Liquid code-this is pure HTML/CSS/JS.
+=======
+No Shopify Liquid code-this is pure HTML/CSS/JS.
+>>>>>>> bac164f (Initial commit)
